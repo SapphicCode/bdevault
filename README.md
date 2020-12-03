@@ -1,6 +1,7 @@
 # BDEVault
 
 BDEVault is a tool intended to make your life easier, in regards to BitLocker.
+It submits the local computer's BitLocker recovery keys into a [Hashicorp Vault](https://vaultproject.io/) of your choosing.
 
 ## Build
 
