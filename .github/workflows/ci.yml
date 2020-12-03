@@ -16,4 +16,5 @@ jobs:
           GOARCH: amd64
         run: go build ./cmd/bdevault
       - uses: actions/upload-artifact@v2
-        path: "*.exe"
+        with:
+          path: "*.exe"
