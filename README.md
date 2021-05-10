@@ -1,3 +1,7 @@
+# ⚠️ Deprecation notice
+
+This code was a proof-of-concept for backing up BitLocker keys to Vault. For the current method, please see the PowerShell script in my [`scripts`](https://github.com/SapphicCode/scripts) repository.
+
 # BDEVault
 
 BDEVault is a tool intended to make your life easier, in regards to BitLocker.
